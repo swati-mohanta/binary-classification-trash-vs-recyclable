@@ -15,12 +15,11 @@ For each case, we train multiple classifiers:
 
 We compare the **accuracies and classification reports** for all models in each case.
 
-
 ## Dataset
-- Name: Trash and Recyclable Images
-- Description: Contains two categories of images: Trash and Recyclable.
+- The dataset is in `garbage.zip`
+- Description: Contains two folders inside: `trash` and `recyclable` with images
 - Size: 240 images total (120 each)
-- Structure:
+- To use, download and unzip `garbage.zip`
 
 ## Steps
 1. Feature extraction (HOG, LBP, HOG+LBP)
