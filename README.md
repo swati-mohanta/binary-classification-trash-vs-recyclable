@@ -19,7 +19,7 @@ We compare the **accuracies and classification reports** for all models in each 
 ## Dataset
 - Name: Trash and Recyclable Images
 - Description: Contains two categories of images: Trash and Recyclable.
-- Size: [e.g., 500 images total]
+- Size: 240 images total (120 each)
 - Structure:
 
 ## Steps
